@@ -1,5 +1,4 @@
 # Deep Learning Programming 
-Note: 
 
 ## Details
 1. Created as a part of the course [Introduction to Deep Learning Course](https://ovgu-ailab.github.io/idl2021/index.html) at [Otto-Von-Guericke-Universität Magdeburg](https://www.uni-magdeburg.de)
