@@ -2,9 +2,10 @@
 
 ## Details
 1. Created as a part of the course [Deep Learning Course](https://ovgu-ailab.github.io/idl2021/index.html) at [Otto-Von-Guericke-Universität Magdeburg](https://www.uni-magdeburg.de)
-2. Development and Training environment: [Google Colab](https://colab.research.google.com/)
-3. Language/frameworks: [Python](https://www.python.org), [TensorFlow](https://www.tensorflow.org/), [Keras](https://keras.io/)
-4. Assignment and descriptions: 
+2. Learning : MLPs, CNNs, RNNs, Attention and Memory, Transformers, Autoencoders, Self-Supervised Representation Learning, Regularisation, Optimisation, Practical Methodology, Introspection(XAI)
+3. Development and Training environment: [Google Colab](https://colab.research.google.com/)
+4. Language/frameworks: [Python](https://www.python.org), [TensorFlow](https://www.tensorflow.org/), [Keras](https://keras.io/)
+5. Assignment and descriptions: 
 
 | #No|Topic                                       |Assignment_Details                                               | Submission | 
 |----|--------------------------------------------|-----------------------------------------------------------------|------------|
