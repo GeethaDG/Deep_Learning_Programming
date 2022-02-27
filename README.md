@@ -22,7 +22,7 @@
 
 | #No|Topic                                       |Assignment_Details   |   |   |
 |----|--------------------------------------------|---|---|---|
-|  1 | MLPs, Gradient Descent & Backpropagation   |[View](https://ovgu-ailab.github.io/idl2021/ass1.html)   |   |   |
+|  1 | MLPs, Gradient Descent & Backpropagation   |[MLP](https://ovgu-ailab.github.io/idl2021/ass1.html)   |   |   |
 |  2 | MLP with TensorBoard                       |   |   |   |
 |  3 | Keras & CNNs                               |   |   |   |
 |  4 | Graphs & DenseNets                         |   |   |   |
