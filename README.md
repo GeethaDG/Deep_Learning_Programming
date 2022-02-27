@@ -18,5 +18,5 @@
 |  8 | Word2Vec                                   |[Assignment 8](https://ovgu-ailab.github.io/idl2021/ass8a.html)  |[Assignment Submission 8](Assignment_Submissions/Assignment_8.ipynb)     |
 |  9 | Self-Supervised Learning                   |[Assignment 9](https://ovgu-ailab.github.io/idl2021/ass9.html)   |[Assignment Submission 9](Assignment_Submissions/Assignment_9.ipynb)     | 
 | 10 | Adversarial Examples & Training            |[Assignment 10](https://ovgu-ailab.github.io/idl2021/ass10.html) |[Assignment Submission 10](Assignment_Submissions/Assignment_10.ipynb)    | 
-| 11 | Practical Methodology                      |[Assignment 11](https://ovgu-ailab.github.io/idl2021/ass11.html) |[Assignment Submission 11](Assignment_Submissions/Assignment_11.ipynb)    |
-| 12 | Introspection                              |[Assignment 12](https://ovgu-ailab.github.io/idl2021/ass12.html) |[Assignment Submission 12](Assignment_Submissions/Assignment_12.ipynb)    |
+| 11 | Practical Methodology                      |[Assignment 11](https://ovgu-ailab.github.io/idl2021/ass11.html) |In Progress   |
+| 12 | Introspection                              |[Assignment 12](https://ovgu-ailab.github.io/idl2021/ass12.html) |In Progress    |
