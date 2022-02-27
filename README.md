@@ -1,7 +1,7 @@
 # Deep Learning Programming 
 
 ## Details
-1. Created as a part of the course [Deep Learning Course](https://ovgu-ailab.github.io/idl2021/index.html) at [Otto-Von-Guericke-Universität Magdeburg](https://www.uni-magdeburg.de)
+1. Created as a part of the course [Deep Learning Course](https://ovgu-ailab.github.io/idl2021/index.html) at [Otto-Von-Guericke-Universität Magdeburg](https://www.uni-magdeburg.de) offered by [AI Lab](https://ai.ovgu.de)
 2. Learning : MLPs, CNNs, RNNs, Attention and Memory, Transformers, Autoencoders, Self-Supervised Representation Learning, Regularisation, Optimisation, Practical Methodology, Introspection(XAI)
 4. Development and Training environment: [Google Colab](https://colab.research.google.com/)
 5. Language/frameworks: [Python](https://www.python.org), [TensorFlow](https://www.tensorflow.org/), [Keras](https://keras.io/)
