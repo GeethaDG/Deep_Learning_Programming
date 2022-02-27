@@ -20,17 +20,17 @@
 
 
 
-| #No|Topic                                       |Assignment_Details   |   |   |
-|----|--------------------------------------------|---|---|---|
-|  1 | MLPs, Gradient Descent & Backpropagation   |[MLP](https://ovgu-ailab.github.io/idl2021/ass1.html)   |   |   |
-|  2 | MLP with TensorBoard                       |   |   |   |
-|  3 | Keras & CNNs                               |   |   |   |
-|  4 | Graphs & DenseNets                         |   |   |   |
-|  5 | Text Classification with RNNs (Part 1)     |   |   |   |
-|  6 | Text Classification with RNNs (Part 2)     |   |   |   |
-|  7 | Attention-based Neural Machine Translation |   |   |   |
-|  8 | Word2Vec                                   |   |   |   |
-|  9 | Self-Supervised Learning                   |   |   |   |
-| 10 | Adversarial Examples & Training            |   |   |   |
-| 11 | Practical Methodology                      |   |   |   |
-| 12 | Introspection                              |   |   |   |
+| #No|Topic                                       |Assignment_Details                                               | Submission | 
+|----|--------------------------------------------|-----------------------------------------------------------------|------------|
+|  1 | MLPs, Gradient Descent & Backpropagation   |[Assignment 1](https://ovgu-ailab.github.io/idl2021/ass1.html)   |   |   
+|  2 | MLP with TensorBoard                       |[Assignment 2](https://ovgu-ailab.github.io/idl2021/ass2.html)   |   | 
+|  3 | Keras & CNNs                               |[Assignment 3](https://ovgu-ailab.github.io/idl2021/ass3.html)   |   |
+|  4 | Graphs & DenseNets                         |[Assignment 4](https://ovgu-ailab.github.io/idl2021/ass4.html)   |   | 
+|  5 | Text Classification with RNNs (Part 1)     |[Assignment 5](https://ovgu-ailab.github.io/idl2021/ass5.html)   |   | 
+|  6 | Text Classification with RNNs (Part 2)     |[Assignment 6](https://ovgu-ailab.github.io/idl2021/ass6.html)   |   |
+|  7 | Attention-based Neural Machine Translation |[Assignment 7](https://ovgu-ailab.github.io/idl2021/ass7.html)   |   |
+|  8 | Word2Vec                                   |[Assignment 8](https://ovgu-ailab.github.io/idl2021/ass8a.html)  |   |
+|  9 | Self-Supervised Learning                   |[Assignment 9](https://ovgu-ailab.github.io/idl2021/ass9.html)   |   | 
+| 10 | Adversarial Examples & Training            |[Assignment 10](https://ovgu-ailab.github.io/idl2021/ass10.html) |   | 
+| 11 | Practical Methodology                      |[Assignment 11](https://ovgu-ailab.github.io/idl2021/ass11.html) |   |
+| 12 | Introspection                              |[Assignment 12](https://ovgu-ailab.github.io/idl2021/ass12.html) |   |
