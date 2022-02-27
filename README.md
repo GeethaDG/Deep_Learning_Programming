@@ -8,7 +8,7 @@
 
 | #No|Topic                                       |Assignment_Details                                               | Submission | 
 |----|--------------------------------------------|-----------------------------------------------------------------|------------|
-|  1 | MLPs, Gradient Descent & Backpropagation   |[Assignment 1](https://ovgu-ailab.github.io/idl2021/ass1.html)   |[Assignment Submission 1](Assignment_Submissions/Assignment_10.ipynb)  |   
+|  1 | MLPs, Gradient Descent & Backpropagation   |[Assignment 1](https://ovgu-ailab.github.io/idl2021/ass1.html)   |[Assignment Submission 1](Assignment_Submissions/Assignment_1.ipynb)  |   
 |  2 | MLP with TensorBoard                       |[Assignment 2](https://ovgu-ailab.github.io/idl2021/ass2.html)   |   | 
 |  3 | Keras & CNNs                               |[Assignment 3](https://ovgu-ailab.github.io/idl2021/ass3.html)   |   |
 |  4 | Graphs & DenseNets                         |[Assignment 4](https://ovgu-ailab.github.io/idl2021/ass4.html)   |   | 
