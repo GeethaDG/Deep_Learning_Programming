@@ -20,15 +20,17 @@
 
 
 
-| #No|   |   |   |   |
-|----|---|---|---|---|
-|  1 |   |   |   |   |
-|  2 |   |   |   |   |
-|  3 |   |   |   |   |
-|  4 |   |   |   |   |
-|  5 |   |   |   |   |
-|  6 |   |   |   |   |
-|  7 |   |   |   |   |
-|  8 |   |   |   |   |
-|  9 |   |   |   |   |
-| 10 |   |   |   |   |
+| #No|Topic                                       |Assignment_Details   |   |   |
+|----|--------------------------------------------|---|---|---|
+|  1 | MLPs, Gradient Descent & Backpropagation   |[View](https://ovgu-ailab.github.io/idl2021/ass1.html)   |   |   |
+|  2 | MLP with TensorBoard                       |   |   |   |
+|  3 | Keras & CNNs                               |   |   |   |
+|  4 | Graphs & DenseNets                         |   |   |   |
+|  5 | Text Classification with RNNs (Part 1)     |   |   |   |
+|  6 | Text Classification with RNNs (Part 2)     |   |   |   |
+|  7 | Attention-based Neural Machine Translation |   |   |   |
+|  8 | Word2Vec                                   |   |   |   |
+|  9 | Self-Supervised Learning                   |   |   |   |
+| 10 | Adversarial Examples & Training            |   |   |   |
+| 11 | Practical Methodology                      |   |   |   |
+| 12 | Introspection                              |   |   |   |
